@@ -8,7 +8,7 @@
   * [廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000)
   * 书籍推荐——《Pro Git》
 * 主要掌握命令
-  * git init   git add   git commit   git push   git pull   git clone 
+  * git init,git add,git commit,git push,git pull,git clone 
 * 遇到问题问谷歌（目前似乎可以直接用了），百度，极客学院俱乐部群
 
   
