@@ -10,5 +10,8 @@
 * 主要掌握命令
   * git init，git add，git commit，git push，git pull，git clone 
 * 遇到问题问谷歌（目前似乎可以直接用了），百度，极客学院俱乐部群
+* 截止时间——10月1日
+
+###Task2 MySQL基础实战
 
   
